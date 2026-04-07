@@ -25,3 +25,6 @@ This is a numbered list
 ```{python}
 print("hello world!")
 ```
+
+This is a new piece of text. clone the repo > code . to open on VS code
+ > then change the text on index.qmd > push
