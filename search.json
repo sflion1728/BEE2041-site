@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "My First Website",
     "section": "",
-    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird\n\n\nprint(\"hello world!\")\n\nhello world!"
+    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird\n\n\nprint(\"hello world!\")\n\nhello world!\n\n\nThis is a new piece of text. clone the repo &gt; code . to open on VS code &gt; then change the text on index.qmd &gt; push"
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
     "title": "My First Website",
     "section": "",
-    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird\n\n\nprint(\"hello world!\")\n\nhello world!"
+    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird\n\n\nprint(\"hello world!\")\n\nhello world!\n\n\nThis is a new piece of text. clone the repo &gt; code . to open on VS code &gt; then change the text on index.qmd &gt; push"
   },
   {
     "objectID": "about.html",
