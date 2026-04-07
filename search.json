@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My First Website",
+    "section": "",
+    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird\n\n\nprint(\"hello world!\")\n\nhello world!"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "My First Website",
+    "section": "",
+    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird\n\n\nprint(\"hello world!\")\n\nhello world!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "This page is about me.\nI was born in …\nI like …\nYou can find my CV here [ADD LINK]"
+  }
+]
